@@ -1,0 +1,30 @@
+.shopin
+{
+  align-items: center;
+  width: 20%;
+  margin-left: 38em;
+  padding: 10px 0;
+  margin-bottom: 30px;
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid aquamarine;
+  outline: none;
+  color: whitesmoke;
+}
+
+.btn
+{
+  color: black;
+  margin-left: 43em;
+  background-color: aquamarine;
+}
+
+#shopid1
+{
+  margin-top: 5em;
+}
+#shopid2
+{
+  margin-bottom: 4em;
+  margin-top: 4em;
+}

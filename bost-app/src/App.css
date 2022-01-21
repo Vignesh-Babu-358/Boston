@@ -1,0 +1,18 @@
+
+.navbar-text
+{
+  color: white;
+  text-indent: 21em;
+  background: crimson;
+  font-size: 29px;
+  text-decoration: none;
+}
+.navbar-text:hover
+{
+  color: white;
+}
+.navbar
+{
+  padding-top: 0em;
+}
+
