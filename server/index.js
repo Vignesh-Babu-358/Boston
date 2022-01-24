@@ -21,8 +21,7 @@ MongoClient.connect('mongodb://localhost:27017/',(err,db)=>{
       }
       else{
           console.log("Database connected successfully");
-      }
-           
+       }
 });
 
  
