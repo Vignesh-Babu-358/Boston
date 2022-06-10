@@ -1,5 +1,4 @@
-.shopin
-{
+.shopin {
   align-items: center;
   width: 20%;
   margin-left: 38em;
@@ -7,24 +6,57 @@
   margin-bottom: 30px;
   border: none;
   background-color: transparent;
-  border-bottom: 1px solid aquamarine;
+  border-bottom: 1px solid black;
   outline: none;
-  color: whitesmoke;
-}
-
-.btn
-{
   color: black;
-  margin-left: 43em;
-  background-color: aquamarine;
 }
 
-#shopid1
-{
+.btn {
+  color: azure;
+  margin-left: 43em;
+  background-color: black;
+}
+
+.btn:hover {
+  color: azure;
+}
+
+#shopid1 {
   margin-top: 5em;
 }
-#shopid2
-{
+
+#shopid2 {
   margin-bottom: 4em;
   margin-top: 4em;
+}
+
+#form {
+  margin-left: 21px;
+}
+
+#boslogo {
+  margin-left: 670px;
+  margin-top: 110px;
+}
+
+::placeholder {
+  color: black;
+}
+
+#homebdy {
+  position: -ms-page;
+  width: 1682px;
+  height: 1024px;
+  left: -32px;
+  top: 0px;
+  background-size: cover;
+
+  background: url(./bos-bg.jfif);
+  background-color: white;
+}
+
+#sel1 {
+  margin-left: 610px;
+  margin-top: 40px;
+  width: 300px;
 }

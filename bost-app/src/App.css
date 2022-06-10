@@ -1,18 +1,15 @@
-
-.navbar-text
-{
-  color: white;
+.navbar-text {
+  color: azure;
   text-indent: 21em;
-  background: crimson;
+  background: black;
   font-size: 29px;
   text-decoration: none;
 }
-.navbar-text:hover
-{
-  color: white;
-}
-.navbar
-{
-  padding-top: 0em;
+
+.navbar-text:hover {
+  color: azure;
 }
 
+.navbar {
+  padding-top: 0em;
+}

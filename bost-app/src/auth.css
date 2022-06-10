@@ -1,0 +1,60 @@
+
+
+.Img
+{
+    float: left;
+}
+.Login
+{   
+    position: absolute;
+    padding-top: 150px;
+
+}
+.Logo
+{
+    position: absolute;
+    padding-left: 994px;
+    margin-left: 166px;
+}
+.sec
+{
+    padding-top: 200px;
+    padding-left: 930px;
+    
+    
+}
+  
+input {
+    height: 20px;
+    flex: 0 0 200px;
+    margin-left: 58px;
+    border-top: 0ch;
+    border-left: 0ch;
+    border-right: 0ch;
+    padding-left: 10px;    
+  }
+.pwd
+{
+    padding-top: 40px;
+    margin-left: 172px;
+}
+#user{
+    margin-left: 172px;
+    margin-top: 30px;
+    padding-left: 1px;
+}
+.form-control{
+    width: 163px;
+}
+.formbox{
+    margin-left: 294px;
+    margin-top: -22px;
+}
+.passbox{
+    margin-left: 295px;
+    margin-top: -21px;
+}
+#butbox{
+    margin-left: 258px;
+    margin-top: 54px;
+}
